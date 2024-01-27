@@ -1,0 +1,4 @@
+﻿// dodugirift bayni klassu obekt
+
+
+
